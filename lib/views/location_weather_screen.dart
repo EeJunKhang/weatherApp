@@ -155,6 +155,7 @@ class _LocationWeatherPageState extends State<LocationWeatherPage> {
           ),
           Text(
             widget.weatherModal.current.condition.text,
+            textAlign: TextAlign.center,
             style: const TextStyle(
               fontWeight: FontWeight.bold,
               fontSize: 30,
