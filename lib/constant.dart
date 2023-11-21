@@ -1,2 +1,2 @@
-const weatherapikey = "91b7a4c1351c41979b0160347230611";
+const weatherapikey = "b355b1035cac4757b0554736232111";
 const imageapikey = "yGeBKTweNmb9SXVL9khTKQoTiKqcHiudXR5fVDBdYhI";
